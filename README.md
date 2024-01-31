@@ -1,2 +1,3 @@
-# CarPurchaseAmount
-Performing Multivariate Analysis
+# Car Purchase Amount
+
+The integration of technology and data analytics has revolutionized the automotive industry, facilitating precise predictions of individual spending on car purchases. This study employs regression analysis to delve into predictive modeling, aiming to identify key variables influencing purchase amounts. The focus is on crafting an effective predictive model for the dataset encompassing quantitative and categorical features like Annual Salary, Expenses, Credit Card Debt, Net Worth, Age, and Gender. With around 300 rows of data, our robust dataset forms the foundation for credible predictions. Utilizing the stepwise regression method promises to optimize pricing strategies, offering accurate estimates crucial for informed decision-making in car purchases. This initiative aims to provide valuable insights for both consumers and manufacturers, merging statistical approaches with real-world vehicle data for enhanced decision-making in the dynamic automotive sector.
